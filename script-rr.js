@@ -1,0 +1,1 @@
+lidhFotot('rreqebull.jpg', 'rrush.jpg', 'rrota.jpg');

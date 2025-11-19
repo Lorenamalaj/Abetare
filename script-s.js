@@ -1,0 +1,1 @@
+lidhFotot('sorra.jpg', 'sallate.jpg', 'stilolaps.jpg');

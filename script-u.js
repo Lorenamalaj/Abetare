@@ -1,0 +1,1 @@
+lidhFotot('urith.jpg', 'ulli.jpg', 'ura.jpg');

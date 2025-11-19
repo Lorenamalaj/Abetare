@@ -1,0 +1,1 @@
+lidhFotot('xhind.jpg', 'xhezve.jpg', 'xhaket.jpg')

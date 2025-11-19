@@ -1,0 +1,1 @@
+lidhFotot('qeni.jpg', 'qumesht.jpg', 'qiri.jpg');

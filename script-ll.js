@@ -1,0 +1,1 @@
+lidhFotot('llamp.jpg', 'llokume.jpg', 'llulla.jpg');

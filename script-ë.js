@@ -1,0 +1,1 @@
+lidhFotot('embelsira.jpg', 'enderr.jpg', 'enjtja.jpg');

@@ -1,0 +1,1 @@
+lidhFotot('thelleza.jpg', 'thjerreza.jpg', 'thika.jpg');

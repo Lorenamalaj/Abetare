@@ -1,0 +1,1 @@
+lidhFotot('delfini.jpg', 'dardha.jpg', 'dritare.jpg');

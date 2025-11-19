@@ -1,0 +1,1 @@
+lidhFotot('iriq.jpg', 'ishull.jpg', 'ibrik.jpg');

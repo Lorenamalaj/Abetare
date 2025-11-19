@@ -1,0 +1,1 @@
+lidhFotot('luan.jpg', 'luleshtrydhe.jpg', 'laps.jpg');

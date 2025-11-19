@@ -1,0 +1,1 @@
+lidhFotot('zebra.jpg', 'zup.jpg', 'zile.jpg');

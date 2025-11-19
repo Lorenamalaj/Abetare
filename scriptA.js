@@ -1,0 +1,1 @@
+lidhFotot('ariu.jpg', 'arra.jpg', 'anija.jpg');

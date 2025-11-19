@@ -1,0 +1,1 @@
+lidhFotot('ketri.jpg', 'karrota.jpg', 'kembana.jpg');

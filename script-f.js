@@ -1,0 +1,1 @@
+lidhFotot('flutur.jpg', 'fiq.jpg', 'flamur.jpg');

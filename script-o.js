@@ -1,0 +1,1 @@
+lidhFotot('oktapod.jpg', 'oriz.jpg', 'ore.jpg');

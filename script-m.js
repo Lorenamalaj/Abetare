@@ -1,0 +1,1 @@
+lidhFotot('mace.jpg', 'molla.jpg', 'makina.jpg');

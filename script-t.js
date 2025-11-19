@@ -1,0 +1,1 @@
+lidhFotot('tigri.jpg', 'trendafil.jpg', 'top.jpg');

@@ -1,0 +1,1 @@
+lidhFotot('hipopotam.jpg', 'hudher.jpg', 'helikopter.jpg');
